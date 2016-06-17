@@ -1,6 +1,6 @@
 {
   "name": "Projet Minitel.",
   "tagline": "#Stage",
-  "body": "Rapport de stage\r\nProblématique: Comment recycler un minitel en le hackant et utilisant un raspberry pi pour le faire communiquer avec un autre minitels?\r\nPour faire se projet nous avons dut utilisé:\r\n-Un raspberry pi qui servira de micro ordinateur\r\n-Un cable DIN \r\n-Un Pl2303 qui lui, sert pour relier le DIN au raspberry\r\n-Un minitel B1 (les B1 ont la particularité d'avoir une touche fnct \"fonction\" et une prise DIN femelle\r\n\r\n",
+  "body": "## Rapport de stage\r\n\r\n### Problématique: Comment recycler un minitel en le hackant et utilisant un raspberry pi pour le faire communiquer avec un autre minitels?\r\n\r\nPour faire se projet nous avons dut utilisé:\r\n- Un raspberry pi qui servira de micro ordinateur\r\n- Un cable DIN \r\n- Un Pl2303 qui lui, sert pour relier le DIN au raspberry\r\n- Un minitel B1 (les B1 ont la particularité d'avoir une touche fnct \"fonction\" et une prise DIN femelle\r\n\r\n",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
